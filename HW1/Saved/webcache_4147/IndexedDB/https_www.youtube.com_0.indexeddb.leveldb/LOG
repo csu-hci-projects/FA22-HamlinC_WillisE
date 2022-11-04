@@ -1,0 +1,5 @@
+2022/11/03-20:54:19.485 4cc0 Reusing MANIFEST E:/Branches/HamlinC_WillisE-Lvl_1/HamlinC_WillisE-Lvl_1/HW1/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/03-20:59:56.394 2cf8 Level-0 table #5: started
+2022/11/03-20:59:56.424 2cf8 Level-0 table #5: 6900 bytes OK
+2022/11/03-20:59:56.428 2cf8 Delete type=0 #3
+2022/11/03-20:59:56.436 2cf8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
