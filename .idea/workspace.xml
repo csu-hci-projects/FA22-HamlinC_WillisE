@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0b8740e-c573-4f02-b206-a873a967a923" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HW2/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Config/DefaultEditor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Content/VRTemplate/Blueprints/Pistol.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Content/VRTemplate/Blueprints/Pistol.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Content/VRTemplate/Maps/VRTemplateMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Content/VRTemplate/Maps/VRTemplateMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Intermediate/CachedAssetRegistry.bin" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Intermediate/CachedAssetRegistry.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Saved/Config/WindowsEditor/Editor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Saved/Config/WindowsEditor/Editor.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW2/Saved/Logs/HW2.log" beforeDir="false" afterPath="$PROJECT_DIR$/HW2/Saved/Logs/HW2.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HeGpA1g2SuLeAXhnHGz6gUto9M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0b8740e-c573-4f02-b206-a873a967a923" name="Changes" comment="" />
+      <created>1668638325160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668638325160</updated>
+      <workItem from="1668638328943" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
